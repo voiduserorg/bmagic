@@ -9,3 +9,12 @@ Section: Utilities
 Filename: debs/com.opa334.trollstorehelper_2.1.1_iphoneos-arm64.deb
 Size: 1920364
 MD5sum: f2339d3da14cfca2e99f6df288f61537
+
+Package: ws.hbang.newterm3
+Name: NewTerm 3
+Version: 3.0.0~beta1
+Architecture: iphoneos-arm
+Description: Полноценный эмулятор терминала для iOS. Необходим для работы с командной строкой прямо на устройстве.
+Filename: debs/newterm3.deb
+Size: 3833904
+MD5sum: 59a930777e8be2b6574a44bfa24da037
